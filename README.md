@@ -1,9 +1,11 @@
 # Solitaire
 Clone of Microsoft Windows Solitaire circa Windows XP (in VB.NET).
 
-This work is based on, in part, the C# version that was made available on GotDotNet.
+This version pays tribute to arguably the most played game... ever.
 
-After working through to convert this code (in 2005) to VB.NET, fixing several bugs and adding missing features, it was published to <a href=AddressOf.com>AddressOf.com</a>.
+The simplest way to get started with the code is to use <a href=http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx>Microsoft Visual Studio 2013 Community Edition</a> (It's FREE!).
+
+The bulk of this work is based on, in part, the C# version that was made available on GotDotNet.  After working through to convert this code (circa 2005) to VB.NET, fixing several bugs and adding missing features, it was published to <a href=AddressOf.com>AddressOf.com</a>.
 
 The following information is taken from the original announcement of making the code available.
 
