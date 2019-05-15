@@ -21,3 +21,9 @@ Here's a quick list of some differences:
 Additionally, I'd like to give credit to the following for their work on the C# version that this is originally based:  Christine Morin and Chris Sells.
 
 Unfortunately, the C# version may be lost to history when GotDotNet closed down. :-(
+
+## In the News
+
+[Microsoft Solitaire Is Finally 'Hall of Fame' Status and It's Far More Important Than Anyone Realizes](https://www.inc.com/don-reisinger/microsoft-solitaire-is-finally-hall-of-fame-status-its-far-more-important-than-anyone-realizes.html) A legendary gaming classic proves simplicity matters.
+
+[Bing News - Solitaire](https://www.bing.com/news/search?q=Solitaire&qpvt=solitaire&FORM=EWRE)
