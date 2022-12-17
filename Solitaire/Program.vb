@@ -4,7 +4,8 @@
     Friend Sub Main(args As String())
         ' Application.SetHighDpiMode(HighDpiMode.SystemAware)
         Application.EnableVisualStyles()
-        Application.SetCompatibleTextRenderingDefault(False)
+        Application.DoEvents()
+        ' Application.SetCompatibleTextRenderingDefault(False)
         Application.Run(New Solitaire)
     End Sub
 

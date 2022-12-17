@@ -560,13 +560,6 @@ Public Class Solitaire
 
 #End Region
 
-  <STAThread()> _
-  Shared Sub Main()
-    Application.EnableVisualStyles()
-    Application.DoEvents()
-    Application.Run(New Solitaire)
-  End Sub
-
   Private Const EnhancedMode As Boolean = True
 
   Private Sub Startup()
