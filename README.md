@@ -2,6 +2,8 @@
 
 A clone of Microsoft Windows Solitaire (in VB.NET / .NET 8).
 
+![Solitaire](solitaire.png)
+
 This version pays tribute to arguably the most played game... ever.
 
 The project represents the *revisited* version; where it has been completely reworked, ported, improved and adjusted for compiling/running on .NET 8.
