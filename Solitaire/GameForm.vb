@@ -71,7 +71,7 @@
 
   Private Sub Startup()
 
-    CheatWinToolStripMenuItem.Visible = True ' for testing
+    CheatWinToolStripMenuItem.Visible = False ' for testing
 
     m_settings = Settings.Load()
 
