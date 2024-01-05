@@ -6,7 +6,23 @@
     <StartupObject>Solitaire.My.MyApplication</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
+    <AssemblyName>solitaire</AssemblyName>
+    <Version>0.0.3.0</Version>
+    <FileVersion>0.0.3.0</FileVersion>
+    <Authors>Cory Smith</Authors>
+    <Company>AddressOf.com</Company>
+    <Copyright>(c) 2005-2024, Cory Smith</Copyright>
+    <WebPage>http://addressof.com</WebPage>
+    <TrimMode>copyused</TrimMode>
+    <IncludeNativeLibrariesForSelfExtract>True</IncludeNativeLibrariesForSelfExtract>
     <OptionStrict>On</OptionStrict>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <GenerateResourceWarnOnBinaryFormatterUse>False</GenerateResourceWarnOnBinaryFormatterUse>
+    <UseWPF>False</UseWPF>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <ApplicationIcon>Ico\sol2.ico</ApplicationIcon>
+    <Title>'Classic' Solitaire</Title>
+    <PackageProjectUrl>https://github.com/DualBrain/Solitaire</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
