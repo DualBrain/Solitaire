@@ -33,6 +33,12 @@ Additionally, I'd like to give credit to the following for their work on the C# 
 
 Unfortunately, the original C# version may be lost to history after the closure of GotDotNet. :-(
 
+## Discord
+
+Please reach out to me on Discord:
+
+- [Discord Invite](https://discord.gg/Y8EH5fF6WG)
+
 ## In the News
 
 [Microsoft Solitaire Is Finally 'Hall of Fame' Status and It's Far More Important Than Anyone Realizes](https://www.inc.com/don-reisinger/microsoft-solitaire-is-finally-hall-of-fame-status-its-far-more-important-than-anyone-realizes.html) A legendary gaming classic proves simplicity matters.
